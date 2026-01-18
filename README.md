@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋 I'm Ubaid Shekh
 
-<!--
-**ubaidShekh/ubaidShekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at Jamia Millia Islamia  
+📱 React Native Developer  
+🌐 Working on IoT & Smart Home Automation  
+🔥 Firebase | ESP8266 | JavaScript  
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- 🏠 IoT-Based Smart Home Automation App
+- 📡 Radar Tracking App (Planes & Satellites)
+- 📱 React Native Mobile Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- React Native, React.js
+- JavaScript, HTML, CSS
+- Firebase Realtime DB
+- ESP8266, Arduino
+
+### 📫 Contact
+- Email: ubaidjmi2022@gmail.com
