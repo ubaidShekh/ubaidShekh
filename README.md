@@ -9,7 +9,7 @@ I build cross-platform mobile applications with **React Native**, develop native
 - **Backend:** Node.js, Express.js, MongoDB
 - **Currently Building:** U-Chat — a Muslim social media application
 
-[Portfolio](https://ubaidshekh.github.io/ubaid-shekh/) · [GitHub](https://github.com/ubaidShekh) · [Email](mailto:ubaidjmi2022@gmail.com)
+[Portfolio](https://ubaid-portfolio-two.vercel.app/) · [GitHub](https://github.com/ubaidShekh) · [Email](mailto:ubaidjmi2022@gmail.com)
 
 ---
 
