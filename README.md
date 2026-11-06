@@ -176,7 +176,7 @@ A mobile platform focused on matrimony profiles and user connections.
 ## Connect With Me
 
 - **GitHub:** [ubaidShekh](https://github.com/ubaidShekh)
-- **Portfolio:** [View my portfolio](https://ubaidshekh.github.io/ubaid-shekh/)
+- **Portfolio:** [View my portfolio](https://ubaid-portfolio-two.vercel.app/)
 - **Email:** [ubaidjmi2022@gmail.com](mailto:ubaidjmi2022@gmail.com)
 
 ---
